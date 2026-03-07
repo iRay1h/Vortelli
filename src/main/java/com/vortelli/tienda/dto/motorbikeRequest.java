@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 
-public class motorbikeRequest {
+public class MotorbikeRequest {
     private String brand;
 
     private String model;

@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 
-public class motorbikeResponse {
+public class MotorbikeResponse {
 
     private Long id;
 
