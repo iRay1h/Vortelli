@@ -1,8 +1,8 @@
 package com.vortelli.tienda.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.vortelli.tienda.entity.motorbikeEntity;
+import com.vortelli.tienda.entity.MotorbikeEntity;
 
-public interface motorbikeRepository extends JpaRepository<motorbikeEntity, Long>{
+public interface MotorbikeRepository extends JpaRepository<MotorbikeEntity, Long>{
     
 }
