@@ -5,6 +5,9 @@ import lombok.Data;
 @Data
 
 public class MotorbikeRequest {
+
+    private Long id;
+
     private String brand;
 
     private String model;
