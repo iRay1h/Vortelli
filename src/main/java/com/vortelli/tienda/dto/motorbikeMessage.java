@@ -1,6 +1,6 @@
 package com.vortelli.tienda.dto;
 
-public class motorbikeMessage {
+public class MotorbikeMessage {
     // Atributos
     private String message;
 }
