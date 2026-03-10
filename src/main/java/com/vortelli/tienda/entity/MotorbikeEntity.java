@@ -14,7 +14,6 @@ import lombok.Data;
     public class MotorbikeEntity {
         @Id
 @GeneratedValue(strategy = GenerationType.IDENTITY)
-     // el column es para saber a que columna tiene que ir a guardar datos o hacer otras funcionalidades
     @Column(name = "id")
     private Long id;
     @Column(name = "brand")

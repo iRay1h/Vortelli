@@ -1,6 +1,8 @@
 package com.vortelli.tienda.dto;
 
+import lombok.Data;
+
+@Data
 public class MotorbikeMessage {
-    // Atributos
     private String message;
 }
